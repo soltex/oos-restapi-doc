@@ -1,5 +1,3 @@
-
-
 /restapi/v1/auth/login
 
 | **参数** | **类型** | **是否必填** | **默认值** | **说明** |
@@ -30,9 +28,6 @@
 
 ```json
 {"encrypted": false,"code": 1,"errmsg": "成功","data": {"userid": 53253413327864832,"username": "admin","user_type_code": 10 }}
-
-
-
 ```
 
 
