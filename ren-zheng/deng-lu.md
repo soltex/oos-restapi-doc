@@ -27,9 +27,19 @@
 # 返回值
 
 ```json
-{"encrypted": false,"code": 1,"errmsg": "成功","data": {"userid": 53253413327864832,"username": "admin","user_type_code": 10 }}
+{
+	"encrypted": false,
+	"code": 1,
+	"errmsg": "成功",
+	"data": {
+		"userid": 53253413327864832,
+		"username": "admin",
+		"user_type_code": 10
+	}
+}
 ```
 
-  
 [/首页](/首页)
+
+[/基本信息](/基本信息)
 
